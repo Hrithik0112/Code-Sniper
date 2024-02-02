@@ -43,7 +43,7 @@ This project not only demonstrates proficiency in frontend technologies but also
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Run the application with `npm start`.
+3. Run the application with `npm dev`.
 
 ## Usage
 
